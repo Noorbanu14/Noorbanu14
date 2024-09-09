@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">
    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7226F&width=600&lines=Fullstack+Developer;Cloud+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7226F&width=600&lines=Frontend+Developer;Cloud+Engineer" alt="Typing SVG" />
    </a>
 </h2>
 
@@ -24,10 +24,10 @@
 
 ### Connect with me here:
 <div align="left">
-  <a href="https://www.linkedin.com/in/mariamendonca/" target="_blank">
+  <a href="https://www.linkedin.com/in/noor-banu/" target="_blank">
      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:freelancermariamendonca@gmail.com" target="_blank">
+  <a href="mailto:noorbanu119@gmail.com" target="_blank">
      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -94,23 +94,4 @@
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
   <img alt="Sublime Text" src ="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
    <!--  <img alt="" src =""/> <img alt="" src=""/> <img alt="" src =""/>  -->
-</div>
-<br /><br />
-
-
-<table>
-  <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&rank_icon=github&theme=merko&locale=en" alt="mendoncamaria" />
-    </td>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=tokyonight&locale=en&layout=pie&langs_count=8" alt="mendoncamaria" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-   <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoncamaria&theme=dracula&mode=daily" alt="mendoncamaria" />
-   </p>
 </div>
